@@ -1,2 +1,16 @@
 # Photography_Studio (WordPress)
  a photography studio website
+
+![image](https://user-images.githubusercontent.com/61240683/180441577-5a97406c-a812-4495-89ae-f0ad03be174c.png)
+![image](https://user-images.githubusercontent.com/61240683/180441612-cb077542-8c24-4529-a17f-ce292d974336.png)
+![image](https://user-images.githubusercontent.com/61240683/180441596-fbbeb8b1-f818-405f-b20a-6b718084b89f.png)
+![image](https://user-images.githubusercontent.com/61240683/180441641-df1eb4db-64cf-4473-b680-762130755bd0.png)
+![image](https://user-images.githubusercontent.com/61240683/180441668-293b78e8-d42b-414c-ba2c-f742b578c653.png)
+![image](https://user-images.githubusercontent.com/61240683/180441679-d9e6e7a4-2180-4cca-95a4-c2b48ea2dc4e.png)
+![image](https://user-images.githubusercontent.com/61240683/180441719-16d8c375-0754-447c-bb1d-dd0e5024eb2e.png)
+![image](https://user-images.githubusercontent.com/61240683/180441734-cc52397e-900b-483f-8392-28f1f9b0ecd8.png)
+![image](https://user-images.githubusercontent.com/61240683/180441754-5a5a5c2f-f411-4f1e-8989-c93357f2d3f5.png)
+![image](https://user-images.githubusercontent.com/61240683/180441768-71671095-a3cf-4f52-b965-f26a3701576f.png)
+![image](https://user-images.githubusercontent.com/61240683/180441794-18510ed2-ed1a-4c08-9e01-bdbfd6bac5ca.png)
+![image](https://user-images.githubusercontent.com/61240683/180441809-a8f9c5c9-a5ad-483e-91f3-06ee899f86a6.png)
+![image](https://user-images.githubusercontent.com/61240683/180441823-21e51f8d-76ee-42e3-8655-8ec12f2d9b88.png)
